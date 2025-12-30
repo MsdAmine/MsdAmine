@@ -4,7 +4,7 @@
 ### **Full-stack Web Developer**
 *Building practical and scalable applications with clean code.*
 
-<img src="https://github-readme-stats.vercel.app/api?username=MsdAmine&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="MsdAmine GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MsdAmine&show_icons=true&theme=radical&hide_border=false&count_private=true&v=123" alt="MsdAmine GitHub Stats" />
 
 ---
 
