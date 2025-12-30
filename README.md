@@ -4,7 +4,9 @@
 ### **Full-stack Web Developer**
 *Building practical and scalable applications with clean code.*
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MsdAmine&show_icons=true&theme=radical&hide_border=true)](https://github.com/MsdAmine)
+<img src="https://github-readme-stats.vercel.app/api?username=MsdAmine&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="MsdAmine's GitHub stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MsdAmine&theme=radical" alt="MsdAmine's GitHub streak" />
 
 ---
 
@@ -29,51 +31,26 @@
 
 - 👨‍💻 **Role:** Full-stack developer focused on real-world impact.
 - 🧠 **Philosophy:** Writing clean, maintainable, and scalable code.
-- 🌱 **Learning:** Deepening my knowledge in modern backend architectures and distributed systems.
+- 🌱 **Learning:** Deepening my knowledge in modern backend architectures.
 - 🤝 **Collaboration:** I'm open to professional opportunities and open-source contributions.
 
 ---
 
 ### 📌 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔹 Artisan Marketplace</h4>
-      <p>A full-stack marketplace connecting customers with artisans using personalized recommendations.</p>
-      <code>React</code> <code>Node.js</code> <code>Redis</code> <code>Neo4j</code><br><br>
-      <a href="https://github.com/MsdAmine/artisan-marketplace"><b>View Project →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔹 FreelancerHub</h4>
-      <p>A Django-based platform for managing client-freelancer interactions through a structured portal.</p>
-      <code>Django</code> <code>Python</code> <code>HTML/CSS</code><br><br>
-      <a href="https://github.com/MsdAmine/FreelancerHub"><b>View Project →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔹 Medical Office Management</h4>
-      <p>Workflow management for doctors and appointments with a focus on UX.</p>
-      <code>JavaScript</code> <code>CSS3</code> <code>HTML5</code><br><br>
-      <a href="https://github.com/MsdAmine/Medical-Office-Management"><b>View Project →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔹 Portail</h4>
-      <p>A structured web portal designed for intuitive navigation and accessibility.</p>
-      <code>Web Technologies</code> <code>Frontend</code><br><br>
-      <a href="https://github.com/MsdAmine/Portail"><b>View Project →</b></a>
-    </td>
-  </tr>
-</table>
+#### 🔹 [Artisan Marketplace](https://github.com/MsdAmine/artisan-marketplace)
+A full-stack marketplace connecting customers with artisans using personalized recommendations.
+`React` `Node.js` `Redis` `Neo4j`
+
+#### 🔹 [FreelancerHub](https://github.com/MsdAmine/FreelancerHub)
+A Django-based platform for managing client-freelancer interactions through a structured portal.
+`Django` `Python` `HTML/CSS`
+
+#### 🔹 [Medical Office Management](https://github.com/MsdAmine/Medical-Office-Management)
+Workflow management for doctors and appointments with a focus on UX.
+`JavaScript` `CSS3` `HTML5`
 
 ---
-
-### 📊 Activity & Reach
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MsdAmine&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ### 🔗 Connect With Me
 
