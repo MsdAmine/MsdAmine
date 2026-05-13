@@ -6,9 +6,9 @@
 
 <!-- GitHub Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MsdAmine&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="MsdAmine GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MsdAmine&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="MsdAmine GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsdAmine&layout=compact&theme=radical&hide_border=false" alt="MsdAmine Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MsdAmine&layout=compact&theme=radical&hide_border=false" alt="MsdAmine Top Languages" />
 </p>
 
 ---
