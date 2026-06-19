@@ -7,8 +7,7 @@
 *I build scalable, production-ready web apps — clean code, solid architecture, real impact.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-MsdAmine-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MsdAmine)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-msd)
 
 </div>
 
@@ -120,7 +119,9 @@ Open to collaborations, internships, and interesting projects. Feel free to reac
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/amine-msd)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-msd)
+
+![Profile Views](https://komarev.com/ghpvc/?username=MsdAmine&color=6366f1&style=for-the-badge&label=Profile+Views)
 
 </div>
 
