@@ -120,9 +120,7 @@ Open to collaborations, internships, and interesting projects. Feel free to reac
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-
-![Profile Views](https://komarev.com/ghpvc/?username=MsdAmine&color=6366f1&style=for-the-badge&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/amine-msd)
 
 </div>
 
