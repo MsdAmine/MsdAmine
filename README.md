@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Softwarengineering student, passionate about **Full-Stack development** and modern architectures
+- 🎓 Software engineering student, passionate about **Full-Stack development** and modern architectures
 - 🔭 Currently building platforms with **React / Next.js**, **Node.js**, **ASP.NET Core** & **Spring Boot**
 - 🧠 I care about clean code, role-based security, and systems that actually scale
 - 🏆 Hackathon participant — built [SafeBite](https://github.com/MsdAmine/SafeBite) at **EMSI TECH HACKATHON 2026**
