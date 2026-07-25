@@ -64,9 +64,9 @@
 
 <div align="center">
 
-![Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MsdAmine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Amine's GitHub Stats](https://github-readme-stats-omega-rosy-62.vercel.app/api?username=MsdAmine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MsdAmine&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats-omega-rosy-62.vercel.app/api/top-langs/?username=MsdAmine&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MsdAmine&theme=tokyonight&hide_border=true)
 
