@@ -13,7 +13,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About
 
 - 🎓 Software engineering student, passionate about **Full-Stack development** and modern architectures
 - 🔭 Currently building platforms with **React / Next.js**, **Node.js**, **ASP.NET Core** & **Spring Boot**
