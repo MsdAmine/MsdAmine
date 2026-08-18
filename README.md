@@ -19,7 +19,7 @@
 - 🔭 Currently building platforms with **React / Next.js**, **Node.js**, **ASP.NET Core** & **Spring Boot**
 - 🧠 I care about clean code, role-based security, and systems that actually scale
 - 🏆 Hackathon participant — built [SafeBite](https://github.com/MsdAmine/SafeBite) at **EMSI TECH HACKATHON 2026**
-- 📍 Based in Morocco 🇲🇦
+- 📍 Based in Morocco 
 
 ---
 
