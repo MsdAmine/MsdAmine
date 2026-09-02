@@ -1,7 +1,6 @@
 <div align="center">
 
-# Hi
-I'm Amine 👋
+# Hi, I'm Amine 👋
 
 ### Full-Stack Developer · Student · Builder
 
